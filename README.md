@@ -1,2 +1,2 @@
 # testPrj
-test project for  testing new posibolilities of angular
+test project for  testing new posibilities of angular
